@@ -1,0 +1,8 @@
+name: p1x3l101-tweaks
+version: 0.0.1
+title: Pixel's mod tweaks
+author: p1x3l101
+description: A collection of (opinionated) tweaks to mods that let them work better together
+factorio_version: "2.0"
+dependencies:
+  - "? lignumis"

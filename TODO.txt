@@ -1,0 +1,6 @@
+# Make sure optional deps are actually optional
+
+---
+
+[ ] Patch space-age-galore so that it does not break aai-industries
+[x] Re-lock the lignumis discovery tech
